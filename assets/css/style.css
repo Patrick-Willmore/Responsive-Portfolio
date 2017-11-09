@@ -271,40 +271,6 @@ input[type=submit] {
         margin-right: 10%;
     }
 
-/*   .hr-two {
-        width: 200px;
-    }
-
-   ul {
-        padding-right: 190px;
-    }
-
-   .project-two {
-        top: 370px;
-        right: 35px;
-    }
-
-   .project-three {
-        top: 600px;
-    }
-
-   .project-four {
-        top: 830px;
-        right: 35px;
-    }
-    .project-five {
-        bottom: -1120px;
-    }
-
-   .project-six {
-        bottom: -1355px;
-        right: 35px;
-    }
-
-   input {
-        width: 290px;
-    }*/
-}
 
 @media screen and (max-width: 768px) {
 
